@@ -2,6 +2,8 @@
 
 This program generates a list of maps from the `Maps` directory in a proper format that can be added into the `KillingFloor.ini` server configuration.
 
+Last updated in 2017.
+
 ## Features
 
  * Optional maps exclusion list
